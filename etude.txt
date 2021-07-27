@@ -3,8 +3,5 @@
 3
 swoo
 5
-<<<<<<< HEAD
 roku
-=======
 six
->>>>>>> 38dfabfc76d9e432eb8531f5095ab5f7b5ac0f06
