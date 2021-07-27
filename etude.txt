@@ -4,8 +4,5 @@
 swoo
 5
 roku
-<<<<<<< HEAD
 sept
-=======
 nana
->>>>>>> e5320987269aa659e8b413b127a23ff26160065e
